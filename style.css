@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+    font-family: monospace;
+}
+a{
+    text-decoration: none;
+    color:black;
+    font-size:100px;
+    width:300px !important;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: antiquewhite;
+    border: 2px black;
+}
+
+.heading{
+    margin-top: 300px;
+}
